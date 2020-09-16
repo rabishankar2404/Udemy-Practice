@@ -1,0 +1,10 @@
+This is first file
+
+Added in the remote Repository
+
+Added in the Local Repo
+
+
+checking the pull process
+
+ Checking the Push operation
